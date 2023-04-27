@@ -1,0 +1,25 @@
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #1F2937;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.logo{
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+}
+nav ul{
+    display: flex;
+}
